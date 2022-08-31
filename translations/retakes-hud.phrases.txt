@@ -1,0 +1,19 @@
+"Phrases"
+{
+  "Plant"
+  {
+    "da"		"Plant bomben!"
+  }
+  
+  "Retake"
+  {
+    "#format"	"{1:s}"
+    "da"		"Angrib Sitet: {1}"
+  }
+  
+  "Defend"
+  {
+    "#format"	"{1:s}"
+    "da"		"Beskyt Sitet: {1}"
+  }
+}
